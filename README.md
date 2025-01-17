@@ -27,8 +27,7 @@ Digital Portfolio Builder is a platform designed for developers to create, custo
 
 - **Frontend**: React, React Router, CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (optional, if your project supports database integration)
-- **Styling**: Tailwind CSS (or custom CSS)
+- **Database**: MongoDB 
 - **Others**: 
   - npm for package management
   - Git for version control
