@@ -3,7 +3,7 @@
 Instruction to Run the web application -->
 
 
-# Digital Portfolio Builder
+# Portfolio Builder
 
 Digital Portfolio Builder is a platform designed for developers to create, customize, and showcase their professional digital portfolios. This platform makes it easy to build and present your work, skills, and experience effectively.
 
@@ -48,14 +48,13 @@ Make sure you have the following installed on your system:
 
 #### Backend Setup
 
-   ```bash
    cd backend
    npm run start
-    ```
+
 
 
 #### Frontend
-    ```bash
+
     cd frontend
     npm start
-    ```
+
