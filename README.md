@@ -48,23 +48,15 @@ Make sure you have the following installed on your system:
 
 #### Backend Setup
 
-1. Open a terminal window.
-2. Navigate to the `backend` directory:
+Navigate to the `backend` directory:
    ```bash
-   cd DigitalPortfolioBuilder/backend/
-    ```
-3. Run server
-    ```bash
-    npm run start
+   cd backend
+   npm run start
     ```
 
-## Frontend
-1. Open a terminal
-2. Go to backend directory 
+
+#### Frontend
     ```bash
-    cd DigitalPortfolioBuilder/frontend/
-    ```
-3. Run server
-    ```bash
+    cd frontend
     npm start
     ```
