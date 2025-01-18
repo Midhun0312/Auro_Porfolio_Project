@@ -48,7 +48,6 @@ Make sure you have the following installed on your system:
 
 #### Backend Setup
 
-Navigate to the `backend` directory:
    ```bash
    cd backend
    npm run start
